@@ -1,4 +1,4 @@
-package com.creatio.crm.langauge.basics;
+
 
 public class AssignmentDataTypes {
 
