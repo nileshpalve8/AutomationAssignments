@@ -1,3 +1,4 @@
+package com.creatio.crm.langauge.Assignments;
 
 
 public class AssignmentDataTypes {
@@ -12,7 +13,7 @@ public class AssignmentDataTypes {
 		System.out.println(placed);
 		
 		//3. Person's phone number: "123-456-7890"
-		int phone  = 1234567890;
+		String phone  = "123-456-7890";
 		System.out.println(phone);
 		
 		//4. Amount of money in a customer's bank account: 1000.50
@@ -47,7 +48,7 @@ public class AssignmentDataTypes {
 		System.out.println(year);
 		
 		//11.Number of followers on a social media platform: 1,000,000
-		int followers = 100000;
+		String followers = "1,000,000";
 		System.out.println(followers);
 		
 		//12.Rating of a movie: 7.5

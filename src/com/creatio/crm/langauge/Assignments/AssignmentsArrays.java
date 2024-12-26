@@ -1,3 +1,4 @@
+package com.creatio.crm.langauge.Assignments;
 
 public class AssignmentsArrays {
 
