@@ -26,6 +26,7 @@ public class EmpGroups {
 		System.out.println("Employee Name:" + empName[0] + "," + "Employee Id:" + empid[0]);
 		System.out.println("Employee Name:" + empName[1] + "," + "Employee Id:" + empid[1]);
 		System.out.println("Employee Name:" + empName[2] + "," + "Employee Id:" + empid[2]);
+		
 
 	}
 
