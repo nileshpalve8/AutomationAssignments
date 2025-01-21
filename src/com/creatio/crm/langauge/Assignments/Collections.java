@@ -205,7 +205,8 @@ public class Collections {
 		//Print the data from Product details > Supplier Name > Office Depot from the Map<String, Map<String,String>>
 		
 	
-		System.out.println(" Supplier Name : " + Data.get("productList").get(1).get("Supplier"));
+		System.out.println(" Supplier Name : " + Data.get("ProductList:").get(1).get("Supplier"));
+//		System.out.println(" Supplier Name : " + Data.get("productList"));
 
 	}
 

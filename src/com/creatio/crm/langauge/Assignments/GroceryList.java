@@ -9,6 +9,7 @@ public class GroceryList {
 	
 	public void addItem(String item) {
 		GroceryList.add(item);
+		
 	}
 	
 	public void removeItem(String item) {

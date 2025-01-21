@@ -6,9 +6,16 @@ public class GroceryTest {
 		GroceryList obj = new GroceryList();
 		
 		obj.addItem("Apples");
+		obj.addItem("Banana");
+		obj.addItem("Mango");
 		
-		 System.out.println("Grocery list after adding items:");
-		 obj.viewList();
+		
+		obj.removeItem("Mango");
+		
+		obj.viewList();
+		
+		// System.out.println("Grocery list after adding items:");
+		// obj.viewList();
 
 	}
 
