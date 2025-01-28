@@ -42,7 +42,7 @@ public class Assignment13 {
 		
 		String paragraph = "Java is a popular programming language. Java is used for web development, mobile applications, and more.";
 		
-		//
+		//count
 		String [] value1 = paragraph.split(" ");
 		int count1 = 0;
 
